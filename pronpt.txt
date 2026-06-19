@@ -1,0 +1,19 @@
+utilizando o recurso de canvas renderize um dashbord em html ao lodo
+
+# Filtros
+-> modelo da Porsche
+-> modelo do ano
+-> city
+-> pay merhod
+
+# Perguntas de negócios e kpis
+-> quais os principais modelos de carro vendido por cidade
+-> qual o ano de modelo de carro mais saiu em uma período
+-> quero insight de carro populares de vendas com base nos dados em cada cidade
+
+-> quantidade de carros vendido por mês 
+
+sobre o ui/ux, se baseie no site oficial da Porsche do brasil
+https://www.porsche.com/brazil/pt/
+
+tenha um ar de elegante e refinado
